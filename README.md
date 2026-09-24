@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="./assets/header-3d.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" />
+<img src="./Header.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Practical+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -168,9 +168,9 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 I'm open to data analytics opportunities, collaborations, and interesting projects.
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="./assets/footer-3d.svg" width="100%" alt="Thanks for visiting" />
+<img src="./Footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>

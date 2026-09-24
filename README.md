@@ -7,13 +7,13 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jeeva1415?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=PROFILE+VIEWS&color=1F6FEB" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Jeeva1415&style=flat-square&label=PROFILE+VIEWS&color=1F6FEB" alt="views" />
 
 </div>
 
@@ -77,7 +77,7 @@ I love working with data: finding patterns, building clear visualizations, and t
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Stress Detection AI](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### 🧠 [Stress Detection AI](https://github.com/Jeeva1415/YOUR_REPO)
 Classifies stress levels from smartphone sensor and lifestyle patterns.
 
 `Low` • `Medium` • `High`
@@ -89,7 +89,7 @@ Classifies stress levels from smartphone sensor and lifestyle patterns.
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Student Performance Prediction](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### 🎓 [Student Performance Prediction](https://github.com/Jeeva1415/YOUR_REPO)
 Web app that predicts student performance from academic and behavioral features.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -101,7 +101,7 @@ Web app that predicts student performance from academic and behavioral features.
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Digital Marketing Analytics](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### 📈 [Digital Marketing Analytics](https://github.com/Jeeva1415/YOUR_REPO)
 Interactive dashboard for exploring marketing data and business insights.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -111,7 +111,7 @@ Interactive dashboard for exploring marketing data and business insights.
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Netflix Data Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### 🎬 [Netflix Data Analysis](https://github.com/Jeeva1415/YOUR_REPO)
 Exploratory analysis of Netflix content to uncover trends and patterns.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -128,10 +128,13 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeeva1415&theme=tokyonight" width="31%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeeva1415&theme=tokyonight" width="31%" alt="most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeeva1415&theme=tokyonight" width="31%" alt="github stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Jeeva1415&theme=tokyonight&hide_border=true" width="55%" alt="streak" />
 
 </div>
 
@@ -168,8 +171,8 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 I'm open to data analytics opportunities, collaborations, and interesting projects.
 
-<a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="./Footer.svg" width="100%" alt="Thanks for visiting" />
 

@@ -19,11 +19,9 @@
 
 <br>
 
-<div align="center">
-
 ## 🧑‍💻 About Me
 
-🎓 **B.Sc. Computer Science with Artificial Intelligence & Data Science**
+> 🎓 **B.Sc. Computer Science with Artificial Intelligence & Data Science**
 
 I love working with data: finding patterns, building clear visualizations, and turning models into practical apps that solve real problems.
 
@@ -35,15 +33,15 @@ I love working with data: finding patterns, building clear visualizations, and t
 | 💬 **Ask me about** | Pandas, Streamlit, Flask, Scikit-learn |
 | ⚡ **Fun fact** | I learn best by building something real |
 
-📊 Data Analysis ➜ 🐍 Python & SQL ➜ 📈 Visualization ➜ 🤖 Machine Learning ➜ 🚀 Real-World Solutions
-
-</div>
+```text
+ 📊 Data Analysis  ─▶  🐍 Python & SQL  ─▶  📈 Visualization  ─▶  🤖 Machine Learning  ─▶  🚀 Real-World Solutions
+```
 
 <br>
 
-<div align="center">
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **💻 Languages**
 
@@ -77,9 +75,9 @@ I love working with data: finding patterns, building clear visualizations, and t
 
 <br>
 
-<div align="center">
-
 ## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
@@ -134,9 +132,9 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 <br>
 
-<div align="center">
-
 ## 📊 GitHub Activity
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeeva1415&theme=tokyonight" width="31%" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeeva1415&theme=tokyonight" width="31%" alt="most used languages" />
@@ -150,9 +148,9 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 <br>
 
-<div align="center">
-
 ## 📚 Certifications & Learning
+
+<div align="center">
 
 | Area | Course / Focus |
 | :--: | :-- |
@@ -167,9 +165,9 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 <br>
 
-<div align="center">
-
 ## 🧭 My Approach
+
+<div align="center">
 
 **Learn** ➜ **Build** ➜ **Analyze** ➜ **Improve** ➜ **Share**
 
@@ -179,9 +177,9 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 <br>
 
-<div align="center">
-
 ## 🤝 Let's Connect
+
+<div align="center">
 
 I'm open to data analytics opportunities, collaborations, and interesting projects.
 

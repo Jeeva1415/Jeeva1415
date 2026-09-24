@@ -1,132 +1,176 @@
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jeeva1415/Jeeva1415/main/banner.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst | Python Developer | AI & ML Enthusiast"/>
+<img src="./assets/header-3d.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Building+with+Python;Exploring+AI+%26+Machine+Learning;Creating+Data-Driven+Solutions" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Practical+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Jeeva1415"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Jeeva1415&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square" alt="open to work"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=PROFILE+VIEWS&color=1F6FEB" alt="views" />
 
 </div>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Sc. Computer Science with **Artificial Intelligence & Data Science**
-- 📊 Passionate about **Data Analytics, Python, AI & Machine Learning**
-- 💡 I turn raw data into meaningful insights and build practical ML applications
-- 🚀 Currently learning **SQL, Power BI and Deep Learning**
-- 🎯 Open to **Data Analyst / Python Developer / Fresher** opportunities
+> 🎓 **B.Sc. Computer Science with Artificial Intelligence & Data Science**
 
----
+I love working with data: finding patterns, building clear visualizations, and turning models into practical apps that solve real problems.
 
-## ⚡ Tech Stack
+|  |  |
+|---|---|
+| 🔭 **Currently working on** | Data Analytics dashboards & ML web apps |
+| 🌱 **Currently learning** | SQL • Power BI • Deep Learning with Keras |
+| 🎯 **Focus** | Data Analytics • Python • Machine Learning |
+| 💬 **Ask me about** | Pandas, Streamlit, Flask, Scikit-learn |
+| ⚡ **Fun fact** | I learn best by building something real |
 
-<div align="center">
+```text
+ 📊 Data Analysis  ─▶  🐍 Python & SQL  ─▶  📈 Visualization  ─▶  🤖 Machine Learning  ─▶  🚀 Real-World Solutions
+```
 
-<b>Programming</b><br/>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="programming"/>
-<br/><br/>
+<br>
 
-<b>Data & Analytics</b><br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" alt="data"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<br/><br/>
+## 🛠️ Tech Stack
 
-<b>AI / Machine Learning</b><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ml"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<br/><br/>
+**💻 Languages**
 
-<b>Web & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" alt="tools"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+**📊 Data & Analytics**
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**🤖 AI & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**🌐 Apps & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🧠 Stress Detection AI</h3>
-<code>Python</code> <code>Flask</code> <code>Random Forest</code>
-<p>Analyzes smartphone sensor and lifestyle patterns to classify stress levels.<br/><b>Output:</b> Low · Medium · High</p>
-<a href="https://github.com/Jeeva1415?tab=repositories">🔗 View Project</a>
+
+### 🧠 [Stress Detection AI](https://github.com/YOUR_USERNAME/YOUR_REPO)
+Classifies stress levels from smartphone sensor and lifestyle patterns.
+
+`Low` • `Medium` • `High`
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Random Forest](https://img.shields.io/badge/-Random_Forest-2E7D32?style=flat-square)
+
 </td>
 <td width="50%" valign="top">
-<h3>🎓 Student Performance Prediction</h3>
-<code>Python</code> <code>Flask</code> <code>Scikit-learn</code>
-<p>ML web app that predicts student performance from academic and behavioral features.</p>
-<a href="https://github.com/Jeeva1415?tab=repositories">🔗 View Project</a>
+
+### 🎓 [Student Performance Prediction](https://github.com/YOUR_USERNAME/YOUR_REPO)
+Web app that predicts student performance from academic and behavioral features.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>📈 Digital Marketing Analytics</h3>
-<code>Python</code> <code>Streamlit</code> <code>Pandas</code>
-<p>Interactive dashboard for exploring marketing data and extracting business insights.</p>
-<a href="https://github.com/Jeeva1415?tab=repositories">🔗 View Project</a>
+
+### 📈 [Digital Marketing Analytics](https://github.com/YOUR_USERNAME/YOUR_REPO)
+Interactive dashboard for exploring marketing data and business insights.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 </td>
 <td width="50%" valign="top">
-<h3>🎬 Netflix Data Analysis</h3>
-<code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
-<p>Exploratory data analysis of Netflix content trends and patterns.</p>
-<a href="https://github.com/Jeeva1415?tab=repositories">🔗 View Project</a>
+
+### 🎬 [Netflix Data Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO)
+Exploratory analysis of Netflix content to uncover trends and patterns.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeeva1415&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Jeeva1415&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
----
+<br>
 
 ## 📚 Certifications & Learning
 
-| Certification | Area |
-|---|---|
-| 🐍 Data Science with Python | Data Science |
-| 📊 Power BI | Data Analytics |
-| 🧠 Supervised Learning | Machine Learning |
-| ❄️ Snowflake Data Modeling | Data Engineering |
-| 🤖 Deep Learning with Keras | Deep Learning |
-| ☁️ Salesforce Innovator | Salesforce / AI |
+| Area | Course / Focus |
+| :--: | :-- |
+| 🐍 | **Data Science with Python** |
+| 📊 | **Power BI** |
+| 🤖 | **Supervised Learning** |
+| ❄️ | **Snowflake Data Modeling** |
+| 🧠 | **Deep Learning with Keras** |
+| ☁️ | **Salesforce Innovator** |
 
----
+<br>
 
-## 🎯 Current Focus
+## 🧭 My Approach
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge" alt="1"/> ➜
-<img src="https://img.shields.io/badge/Python_+_SQL-3776AB?style=for-the-badge" alt="2"/> ➜
-<img src="https://img.shields.io/badge/Power_BI_+_Excel-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811&logoColor=black" alt="3"/> ➜
-<img src="https://img.shields.io/badge/Machine_Learning-2ea44f?style=for-the-badge" alt="4"/> ➜
-<img src="https://img.shields.io/badge/AI_Apps-D00000?style=for-the-badge" alt="5"/>
+**Learn** ➜ **Build** ➜ **Analyze** ➜ **Improve** ➜ **Share**
 
-<br/><br/>
+*The best way to learn technology is to build practical projects and keep improving on real problems.*
 
-<sub>⭐ Thanks for visiting my profile!</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm open to data analytics opportunities, collaborations, and interesting projects.
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="./assets/footer-3d.svg" width="100%" alt="Thanks for visiting" />
 
 </div>

@@ -107,12 +107,12 @@ Web app that predicts student performance from academic and behavioral features.
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Digital Marketing Analytics](https://github.com/Jeeva1415/YOUR_REPO)
-Interactive dashboard for exploring marketing data and business insights.
+### 🛒 [E-Commerce Sales Dashboard](https://github.com/Jeeva1415/YOUR_REPO)
+Interactive Power BI dashboard analyzing sales by city, category, and product.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/-DAX-0078D4?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,6 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 </div>
 
 <br>
-
 ## 📊 GitHub Activity
 
 <div align="center">

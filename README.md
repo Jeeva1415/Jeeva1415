@@ -139,6 +139,7 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 </div>
 
 <br>
+
 ## 📊 GitHub Activity
 
 <div align="center">

@@ -1,11 +1,4 @@
-<!-- ============ HEADER BANNER ============ -->
-<div align="center">
-
-<img src="./Header.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Practical+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br><br>
+<!-- ============ HEADER BANNER ============ --> <div align="center"> <img src="./Header.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" /> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Building+with+Python;Exploring+AI+%26+Machine+Learning;Creating+Practical+Data-Driven+Solutions" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -19,7 +12,7 @@
 
 <br>
 
-## 🧑‍💻 About Me
+##  About Me
 
 > 🎓 **B.Sc. Computer Science with Artificial Intelligence & Data Science**
 
@@ -34,22 +27,27 @@ I love working with data: finding patterns, building clear visualizations, and t
 | ⚡ **Fun fact** | I learn best by building something real |
 
 ```text
- 📊 Data Analysis  ─▶  🐍 Python & SQL  ─▶  📈 Visualization  ─▶  🤖 Machine Learning  ─▶  🚀 Real-World Solutions
+ Data Analysis  ─▶  Python & SQL  ─▶  Visualization  ─▶  Machine Learning  ─▶  Real-World Solutions
 ```
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**💻 Languages**
+<table>
+<tr>
+<td align="center" width="140"><b>💻 Languages</b></td>
+<td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**📊 Data & Analytics**
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>📊 Data & Analytics</b></td>
+<td>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,13 +55,21 @@ I love working with data: finding patterns, building clear visualizations, and t
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**🤖 AI & Machine Learning**
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🤖 AI & ML</b></td>
+<td>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**🌐 Apps & Tools**
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🌐 Apps & Tools</b></td>
+<td>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -71,7 +77,9 @@ I love working with data: finding patterns, building clear visualizations, and t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -149,18 +157,14 @@ Exploratory analysis of Netflix content to uncover trends and patterns.
 
 ## 📚 Certifications & Learning
 
-<div align="center">
-
 | Area | Course / Focus |
-| :--: | :-- |
-| 🐍 | **Data Science with Python** |
+| :--- | :--- |
+| 🧮 | **Data Science with Python** |
 | 📊 | **Power BI** |
 | 🤖 | **Supervised Learning** |
 | ❄️ | **Snowflake Data Modeling** |
 | 🧠 | **Deep Learning with Keras** |
 | ☁️ | **Salesforce Innovator** |
-
-</div>
 
 <br>
 

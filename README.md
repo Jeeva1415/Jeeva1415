@@ -1,4 +1,7 @@
-<!-- ============ HEADER BANNER ============ --> <div align="center"> <img src="./Header.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" /> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Building+with+Python;Exploring+AI+%26+Machine+Learning;Creating+Practical+Data-Driven+Solutions" alt="Typing SVG" />
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
+<img src="./Header.svg" width="100%" alt="Jeevaneshwaran G - Data Analyst, Python Developer, AI & ML Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Building+with+Python;Exploring+AI+%26+Machine+Learning;Creating+Practical+Data-Driven+Solutions" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/jeevaneshwaran-g-a05863315"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gmjeeva05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -103,12 +106,12 @@ Classifies stress levels from smartphone sensor and lifestyle patterns.
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Student Performance Prediction](https://github.com/Jeeva1415/YOUR_REPO)
-Web app that predicts student performance from academic and behavioral features.
+### 🎓 [Astra AI](https://github.com/Jeeva1415/Astra_AI)
+Beginner-friendly AI tutoring chatbot that explains programming and data topics step by step.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </td>
 </tr>

@@ -24,9 +24,9 @@ I love working with data: finding patterns, building clear visualizations, and t
 |  |  |
 |---|---|
 | 🔭 **Currently working on** | Data Analytics dashboards |
-| 🌱 **Currently learning** | SQL • Power BI • Deep Learning with Keras |
+| 🌱 **Currently learning** | Scikit-learn • Tensorflow • Deep Learning with Keras |
 | 🎯 **Focus** | Data Analytics • Python • Machine Learning |
-| 💬 **Ask me about** | Numpy, Pandas, Streamlit, Scikit-learn |
+| 💬 **Ask me about** | Numpy, Pandas, Power BI, Streamlit |
 | ⚡ **Fun fact** | I learn best by building something real |
 
 ```text
